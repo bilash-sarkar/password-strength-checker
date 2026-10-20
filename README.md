@@ -21,7 +21,7 @@ A simple command-line tool written in Python that checks how strong a password i
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/password-strength-checker.git
+   git clone https://github.com/bilash-sarker/password-strength-checker.git
    ```
 2. Go into the folder:
    ```bash
@@ -64,7 +64,7 @@ How to improve:
 ## 👤 Author
 
 **Bilash Sarkar**
-- GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+- GitHub: [@bilash-sarkar](https://github.com/bilash-sarkar)
 
 ## 📄 License
 
